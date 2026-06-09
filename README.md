@@ -1,5 +1,9 @@
 # Co-Parenting OS | 协同养育操作系统
 
+[![GitHub](https://img.shields.io/badge/GitHub-web--seeker-green?logo=github)](https://github.com/web-seeker/co-parenting-os)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Skill](https://img.shields.io/badge/Skill-WorkBuddy-orange)](https://www.codebuddy.cn)
+
 > 让孩子在两个家庭之间，依然拥有稳定、安全、被理解、被尊重的成长体验。
 
 ## 这是什么
@@ -72,8 +76,8 @@ co-parenting-os/
 
 ## 关联项目
 
-- [energy-guardian](https://github.com/) — 一人能量边界全能助手
-- [insight-relations](https://github.com/) — 识人破局持续成长系统
+- [energy-guardian](https://github.com/web-seeker/energy-guardian) — 一人能量边界全能助手
+- [insight-relations](https://github.com/web-seeker/insight-relations) — 识人破局持续成长系统
 
 ## License
 
