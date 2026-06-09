@@ -27,7 +27,13 @@ Co-Parenting OS 是一个面向离异家庭的**协同养育支持系统**，以
 | 9 | 成长阶段引擎 | 0-18 岁六阶段发展数据库 + 离异家庭特别提示 |
 | 10 | 风险预警系统 | 站队风险/过度补偿/情感伴侣化/长期冲突暴露 四维监测 |
 | 11 | 成长接力驾驶舱 | 交接卡/月度报告/季度报告/年度档案自动生成 |
-| 12 | 奶奶恶意攻击急救包 | 六步急救流程，联动 energy-guardian 和 insight-relations |
+| 12 | 被恶意攻击急救包 | 六步急救流程，联动 energy-guardian 和 insight-relations |
+
+## 案例展示：成长接力交接卡
+
+系统生成的接送交接凭证卡示例：
+
+![成长接力交接卡示例](assets/handover-card-example.png)
 
 ## 核心理念
 
@@ -64,7 +70,9 @@ Co-Parenting OS 是一个面向离异家庭的**协同养育支持系统**，以
 co-parenting-os/
 ├── SKILL.md          # 核心 Skill 文件（完整12模块定义）
 ├── README.md         # 本文件
-└── LICENSE           # MIT License
+├── LICENSE           # MIT License
+└── assets/           # 案例图片
+    └── handover-card-example.png
 ```
 
 ## 设计原则
