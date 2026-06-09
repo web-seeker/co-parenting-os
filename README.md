@@ -33,7 +33,7 @@ Co-Parenting OS 是一个面向离异家庭的**协同养育支持系统**，以
 
 系统生成的接送交接凭证卡示例：
 
-![成长接力交接卡示例](assets/handover-card-example.png)
+![成长接力交接卡示例](assets/handover-card-example.jpg)
 
 ## 核心理念
 
